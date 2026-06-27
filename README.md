@@ -1,4 +1,4 @@
-# Hi, I'm Allen 👋
+# Hi, I'm Allen!
 
 CS student at Columbia University passionate about AI engineering and software development. I've interned at Google and Larsen & Toubro, where I've worked on everything from machine learning systems to enterprise AI strategy.
 
@@ -6,7 +6,7 @@ CS student at Columbia University passionate about AI engineering and software d
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Python, Java, C++, C, JavaScript, TypeScript, Bash  
 **Web:** React, HTML, CSS, Vite, Tailwind CSS  
@@ -15,7 +15,7 @@ CS student at Columbia University passionate about AI engineering and software d
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [NAVI — Signal-to-Health](https://github.com/allenchen-dev/navi-signal-to-health) `Public`
 Lead contamination detection platform built at the Columbia University BMES Healthcare Hackathon (Feb 2026). Features a real-time electrochemical simulation, CDC-based lead level classification, AI health advisor powered by Google Gemini, and a GPS-tagged community contamination map.  
@@ -41,7 +41,7 @@ Comparative study of machine learning classifiers (KNN, Logistic Regression, Dec
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 - LinkedIn: [linkedin.com/in/allen-chen-243973293](https://linkedin.com/in/allen-chen-243973293)
 - Email: ac5913@columbia.edu
