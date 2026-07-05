@@ -23,6 +23,12 @@ Lead contamination detection platform built at the Columbia University BMES Heal
 
 ---
 
+### [PhD Email Automation Tool](https://github.com/allenchen-dev/phd-email-automation) `Public`
+Python tool that automates personalized academic outreach emails — reads Word docs, parses Excel professor lists (including Chinese research database format), cleans formatting, and sends via Gmail or Outlook with attachments.
+**Stack:** Python, smtplib, python-docx, pandas, regex
+
+---
+
 ### PowerGrid — Minimum Spanning Tree Optimizer `Private`
 Capstone project for Data Structures (COMS3134) at Columbia. Implements Prim's Algorithm to find the optimal wiring layout for a power grid, minimizing total wire length across all connected stations. Includes full input validation and a 12-case test suite.  
 **Stack:** Java
