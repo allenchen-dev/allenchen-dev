@@ -25,7 +25,6 @@ Lead contamination detection platform built at the Columbia University BMES Heal
 
 ### [PhD Email Automation Tool](https://github.com/allenchen-dev/phd-email-automation) `Public`
 Python tool that automates personalized academic outreach emails — reads Word docs, parses Excel professor lists (including Chinese research database format), cleans formatting, and sends via Gmail or Outlook with attachments.
-
 **Stack:** Python, smtplib, python-docx, pandas, regex
 
 ---
