@@ -18,7 +18,7 @@ everything from backend APIs and ML research to enterprise agentic AI strategy.
 
 ## Projects
 
-### [ORCA — Orchestration & Risk Control for Agents](https://github.com/allenchen-dev/orca) `Public`
+### [ORCA — Orchestration & Risk Control for Agents](https://github.com/allenchen-dev/orca-ai-governance) `Public`
 AI governance platform built in 24 hours at the LTTS Global OpenHack Engineering Intelligence Hackathon (July 2026). Enforces real-time policy on autonomous agents — intercepting every action before execution, cross-checking outputs with an independent LLM judge, and freezing agents for human approval on high-risk decisions. Includes a tamper-evident hash-chained audit log.  
 **Stack:** Python, FastAPI, LangGraph, React, Vite
 
