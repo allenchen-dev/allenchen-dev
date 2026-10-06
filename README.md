@@ -18,6 +18,11 @@ everything from backend APIs and ML research to enterprise agentic AI strategy.
 
 ## Projects
 
+### [RentEscrow — Tenant-Landlord Repair Coordination Platform](https://github.com/allenchen-dev/divhacks2026) `Public`
+
+🏆 **2nd Place, Capital One Track** — Built in 32 hours at Columbia DivHacks 2026 (Sep 2026). RentEscrow helps tenants and landlords document repair requests, share evidence, and manage conditional settlements. Integrates Capital One Nessie API for mock banking verification, Gemini API for AI evidence analysis, XRPL Testnet for policy-controlled payment workflows, NYC HPD open data for housing violation records, and Photon Spectrum for iMessage-based coordination.  
+**Stack:** Next.js, TypeScript, MongoDB, Node.js, Railway
+
 ### [ORCA — Orchestration & Risk Control for Agents](https://github.com/allenchen-dev/orca-ai-governance) `Public`
 AI governance platform built in 24 hours at the LTTS Global OpenHack Engineering Intelligence Hackathon (July 2026). Enforces real-time policy on autonomous agents — intercepting every action before execution, cross-checking outputs with an independent LLM judge, and freezing agents for human approval on high-risk decisions. Includes a tamper-evident hash-chained audit log.  
 **Stack:** Python, FastAPI, LangGraph, React, Vite
@@ -63,8 +68,3 @@ Comparative study of ML classifiers (KNN, Logistic Regression, Decision Tree, Ra
 ## Get in Touch
 - LinkedIn: [linkedin.com/in/allen-chen-cs](https://linkedin.com/in/allen-chen-cs)
 - Email: ac5913@columbia.edu
-
-### [RentEscrow — Tenant-Landlord Repair Coordination Platform](https://github.com/allenchen-dev/divhacks2026) `Public`
-
-🏆 **2nd Place, Capital One Track** — Built in 32 hours at Columbia DivHacks 2026 (Sep 2026). RentEscrow helps tenants and landlords document repair requests, share evidence, and manage conditional settlements. Integrates Capital One Nessie API for mock banking verification, Gemini API for AI evidence analysis, XRPL Testnet for policy-controlled payment workflows, NYC HPD open data for housing violation records, and Photon Spectrum for iMessage-based coordination.  
-**Stack:** Next.js, TypeScript, MongoDB, Node.js, Railway
